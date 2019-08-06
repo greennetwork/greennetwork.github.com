@@ -1,0 +1,37 @@
+{
+r: 0,
+subject: {
+episodes_count: "",
+star: "40",
+blacklisted: "available",
+title: "阿丽塔：战斗天使 Alita: Battle Angel‎ (2019)",
+url: "https://movie.douban.com/subject/1652592/",
+collection_status: "",
+rate: "7.5",
+short_comment: {
+content: "很显然，卡神用时20年、耗资2亿美金、组建上千人团队、动用3万多台电脑，就只是为了向全世界安利自己热爱的漫画而已。",
+author: "Doublebitch"
+},
+is_tv: false,
+subtype: "Movie",
+directors: [
+"罗伯特·罗德里格兹"
+],
+actors: [
+"罗莎·萨拉查",
+"克里斯托弗·沃尔兹",
+"基恩·约翰逊",
+"艾德·斯克林"
+],
+duration: "122分钟",
+region: "美国",
+playable: true,
+id: "1652592",
+types: [
+"动作",
+"科幻",
+"冒险"
+],
+release_year: "2019"
+}
+}
