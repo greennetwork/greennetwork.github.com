@@ -1,0 +1,15 @@
+{
+"updataTime":"",
+hotKeyWord:[
+  {"keywork":"功夫1",
+    "searchType":"h","type":"movie"
+  },
+  {"keywork":"功夫2",
+    "searchType":"s","type":"tv"
+  },{"keywork":"功夫3",
+    "searchType":"h","type":"tv"
+  },{"keywork":"2008",
+    "searchType":"s","type":"music"
+  },
+]
+}
